@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70735853944",
+    "project_id": "fixcodeapp-89f60",
+    "storage_bucket": "fixcodeapp-89f60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70735853944:android:6ab37fea47bc4a8102708d",
+        "android_client_info": {
+          "package_name": "com.example.fixcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA70sIt2SgqN9ta5pUg8O6dizrwZ6YNdhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
