@@ -73,6 +73,12 @@ flutter:
     - assets/pdfs/Flutter_Doc.pdf
     - assets/pdfs/Dart_Doc.pdf
     - assets/pdfs/JS_Doc.pdf
+    - assets/flutter.png
+    - assets/java.png
+    - assets/python.png
+    - assets/mentor1.png
+    - assets/mentor2.png
+    - assets/mentor3.png
   #  - assets/pdfs/GRB_Doc.pdf
 
   # An image asset can refer to one or more resolution-specific "variants", see
